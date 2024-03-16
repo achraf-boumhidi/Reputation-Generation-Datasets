@@ -5,7 +5,7 @@ Paper Title : Periodic Insight: Multilingual Reputation Generation System throug
 
 Description:
 
-This repository provides two valuable benchmark datasets designed to facilitate the evaluation of reputation generation systems. Each dataset offers a rich collection of user reviews for different products, encompassing a diverse range of sentiments and opinions.
+This repository provides two valuable benchmark datasets designed to facilitate the evaluation of reputation generation systems. Each dataset offers a rich collection of user reviews for different products, encompassing a diverse range of sentiments and opinions. Due to data privacy considerations or licensing restrictions, the datasets are not publicly downloadable directly from the repository. Please contact us
 
 Datasets:
 
