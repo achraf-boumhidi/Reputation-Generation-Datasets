@@ -1,6 +1,13 @@
 # Reputation-Generation-Datasets
 
-Paper Title : Aggregating Users’ online Opinions Attributes and News Influence for Cryptocurrencies Reputation Generation 
+Paper Title : Periodic Insight: Multilingual Reputation Generation System through Daily Opinion Mining Analysis
 
 
-To evaluate the proposed reputation generation system, we have collected three real-world datasets about three different cryptocurrencies using Twitter API 11 and web scraping python scripts. Each dataset contains 250 tweets shared by users expressing their opinions toward the target cryptocurrency.
+Description:
+
+This repository provides two valuable benchmark datasets designed to facilitate the evaluation of reputation generation systems. Each dataset offers a rich collection of user reviews for different products, encompassing a diverse range of sentiments and opinions.
+
+Datasets:
+
+Phone Reviews: This dataset contains 250 reviews sourced from platform X, enriched with user details and a sentiment-derived reputation score (8.66).
+Web Application Reviews: This dataset focuses on reviews of an online service, with enriched user details and a calculated reputation score (7.13).
